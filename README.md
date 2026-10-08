@@ -12,8 +12,9 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 
 ---
 
-<details>
-<summary><h2 id="practice-1" style="display:inline-block;">Practice-1</h2></summary>
+<details id="practice-1">
+<summary>Practice-1</summary>
+<br>
 
 2d/3,60 AutoCAD-2D-&-3D-Practice-Drawings-and-Projects,SourceCAD
 
@@ -23,8 +24,9 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 
 ---
 
-<details>
-<summary><h2 id="lecture-technical-drawing-week-2" style="display:inline-block;">Lecture: Technical Drawing Week: 2</h2></summary>
+<details id="lecture-technical-drawing-week-2">
+<summary>Lecture: Technical Drawing Week: 2</summary>
+<br>
 
 3 Drawing Tasks as "CONTA" "MAFSAL PLAKASI" "AÇIK AĞIZLI ANAHTAR"
 
@@ -34,8 +36,9 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 
 ---
 
-<details>
-<summary><h2 id="practice-2" style="display:inline-block;">Practice-2</h2></summary>
+<details id="practice-2">
+<summary>Practice-2</summary>
+<br>
 
 2d/4,60 AutoCAD-2D-&-3D-Practice-Drawings-and-Projects,SourceCAD
 
@@ -45,8 +48,9 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 
 ---
 
-<details>
-<summary><h2 id="practice-3" style="display:inline-block;">Practice-3</h2></summary>
+<details id="practice-3">
+<summary>Practice-3</summary>
+<br>
 
 2d/5,60 AutoCAD-2D-&-3D-Practice-Drawings-and-Projects,SourceCAD
 
@@ -56,8 +60,9 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 
 ---
 
-<details>
-<summary><h2 id="practice-4" style="display:inline-block;">Practice-4</h2></summary>
+<details id="practice-4">
+<summary>Practice-4</summary>
+<br>
 
 2d/6,60 AutoCAD-2D-&-3D-Practice-Drawings-and-Projects,SourceCAD
 
