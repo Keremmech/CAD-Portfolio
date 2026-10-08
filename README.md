@@ -19,7 +19,7 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 <br>
 
 <details>
-<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;"><b>Lectures</b></summary>
+<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;"><b>Lecture Tasks</b></summary>
 <br>
 
 * [Technical Drawing Week 2](#lecture-technical-drawing-week-2)
