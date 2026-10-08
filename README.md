@@ -4,7 +4,7 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 ---
 
 ## 📌 TOC
-* [Practice 1](#sourcecad-60-autocad-2d--3d-practice-drawings-and-projects)
+* [Practice 1](#Practice-1)
 * [Technical Drawing Week 2](#lecture-technical-drawing-week-2)
 * [Practice 2](#practice-2)
 * [Practice 3](#practice-3)
@@ -19,7 +19,7 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 
 ---
 
- ## Lecture:Technical  Drawing Week:2
+ ## Lecture:Technical Drawing Week:2
   3 Drawing Tasks as "CONTA" "MAFSAL PLAKASI" "AÇIK AĞIZLI ANAHTAR"
 <img width="843" height="286" alt="Ekran görüntüsü 2026-10-08 164302" src="https://github.com/user-attachments/assets/6f03b907-43b0-4f98-b8a0-5cbdfde90892" />
 
