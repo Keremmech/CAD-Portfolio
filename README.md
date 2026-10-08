@@ -19,7 +19,7 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 
 ---
 
- ## Lecture:Technical Drawing Week:2
+## Lecture: Technical Drawing Week: 2
   3 Drawing Tasks as "CONTA" "MAFSAL PLAKASI" "AÇIK AĞIZLI ANAHTAR"
 <img width="843" height="286" alt="Ekran görüntüsü 2026-10-08 164302" src="https://github.com/user-attachments/assets/6f03b907-43b0-4f98-b8a0-5cbdfde90892" />
 
