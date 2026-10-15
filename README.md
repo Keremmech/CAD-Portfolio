@@ -66,5 +66,14 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 <img width="843" height="286" alt="Ekran görüntüsü 2026-10-08 164302" src="https://github.com/user-attachments/assets/6f03b907-43b0-4f98-b8a0-5cbdfde90892" />
 
 </details>
+<details style="margin-left: 20px;">
+<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;">Technical Drawing Week: 3</summary>
+<br>
 
+Drawing of Three 3D Objects in First-Angle Projection
+
+<img width="1010" height="477" alt="Ekran görüntüsü 2026-10-15 180732" src="https://github.com/user-attachments/assets/9368f2c6-6000-4afb-b444-6936ded8cd52" />
+
+
+</details>
 </details>
