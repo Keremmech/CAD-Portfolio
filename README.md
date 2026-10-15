@@ -6,7 +6,7 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 ## 📌 Portfolio Contents
 
 <details>
-<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;"><b>📂 Practices(Basic 2D)</b></summary>
+<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;"><b>📂 Practices(Beginner Level 2D)</b></summary>
 <br>
 
 <details style="margin-left: 20px;">
