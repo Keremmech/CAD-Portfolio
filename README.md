@@ -6,7 +6,7 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 ## 📌 Portfolio Contents
 
 <details>
-<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;"><b>📂 Practices</b></summary>
+<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;"><b>📂 Practices(Basic 2D)</b></summary>
 <br>
 
 <details style="margin-left: 20px;">
@@ -46,6 +46,16 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 2d/6,60 AutoCAD-2D-&-3D-Practice-Drawings-and-Projects,SourceCAD
 
 <img width="305" height="433" alt="Ekran görüntüsü 2026-10-08 163514" src="https://github.com/user-attachments/assets/ea093279-9f6c-4ebb-b079-77af43117aec" />
+
+</details>
+<details style="margin-left: 20px;">
+<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;">Practice-5</summary>
+<br>
+
+2d/7,60 AutoCAD-2D-&-3D-Practice-Drawings-and-Projects,SourceCAD
+
+<img width="638" height="455" alt="Ekran görüntüsü 2026-10-15 202333" src="https://github.com/user-attachments/assets/29a92010-a59e-4579-9858-d3d7560ad2f0" />
+
 
 </details>
 
