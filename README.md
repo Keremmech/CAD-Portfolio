@@ -58,6 +58,15 @@ My CAD projects including my beginner designs, copy drawings and real projects e
 
 
 </details>
+<details style="margin-left: 20px;">
+<summary style="user-select: none; -webkit-user-select: none; cursor: pointer;">Practice-6</summary>
+<br>
+
+2d/9,60 AutoCAD-2D-&-3D-Practice-Drawings-and-Projects,SourceCAD
+
+<img width="849" height="552" alt="Ekran görüntüsü 2026-10-16 231349" src="https://github.com/user-attachments/assets/25413187-e6e8-4dec-a50e-ffec4e66c45c" />
+
+</details>
 
 </details>
 
